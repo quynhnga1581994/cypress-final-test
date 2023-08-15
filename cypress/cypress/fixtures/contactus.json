@@ -1,0 +1,28 @@
+{
+    "contactUsTitle": "Contact Us",
+    "contactUsForm":{
+        "firstNameField": "First Name",
+        "lastNameField": "Last Name",
+        "emailAddressfield": "Email Address",
+        "messageField": "Message"
+    },
+    "invalidDataForm":{
+        "firstName": "Lily",
+        "lastName": "Buffer",
+        "emailAddress": "lilybuffer",
+        "orderConfirmationNumber": "1",
+        "message": "I bought this on recommendation and like a prior reviewer wish I had found out about it sooner.I wish I could afford to have a Latigo for every rifle, but alas I spent all my money on that AK hunt. My rifles will probably be sharing this one for a while. Well, maybe I could afford just one more."
+
+},
+    "validDataForm":{
+            "firstName": "Lily",
+            "lastName": "Buffer",
+            "emailAddress": "lilybuffer@yopmail.com",
+            "orderConfirmationNumber": "1",
+            "message": "I bought this on recommendation and like a prior reviewer wish I had found out about it sooner.I wish I could afford to have a Latigo for every rifle, but alas I spent all my money on that AK hunt. My rifles will probably be sharing this one for a while. Well, maybe I could afford just one more."
+
+    },
+
+    "successfullyMessage": "The form has been submitted successfully."
+    
+}
