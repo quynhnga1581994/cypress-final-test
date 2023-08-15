@@ -1,0 +1,25 @@
+{
+    "productQDP":{
+        "url":"https://prep.brownells.com/gun-parts/rifle-parts/rifle-triggers-parts/ar15-single-stage-competitive-triggers/",
+        "variantItems":["Stainless Steel","Curved"],
+        "quantityDiscounts":[
+            {
+                "quantity":5,
+                "pricePerUnit":208.4,
+                "totalAmount":1042
+            },
+            {
+                "quantity":10,
+                "pricePerUnit":206.83,
+                "totalAmount":2068.3
+            },
+            {
+                "quantity":11,
+                "pricePerUnit":206.83,
+                "totalAmount":2275.13
+            }
+
+
+        ]
+    }
+}
